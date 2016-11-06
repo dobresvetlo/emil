@@ -1,0 +1,11 @@
+import random
+
+class Emil:
+	"Emil was born, cute son of Tereza and Lubos"
+	def __init__(self):
+
+	def say(self, word):
+		babble = ''.join(random.sample(word,len(word)))
+		print (babble) + ', Emil is too young.'
+	return (babble)
+    
