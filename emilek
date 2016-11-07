@@ -1,7 +1,7 @@
 import random
 
 class Emil:
-    "Emil, son of Tereza and Lubos"
+    "Emil, cute son of Teru and Lubiador"
     def __init__(self):
         word = 'uaaaa'
     def say(self, word):
